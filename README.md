@@ -4,13 +4,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=poushali-03&label=Profile%20views&color=0e75b6&style=flat" alt="poushali-03" /> </p>
 
-- 🌱 I’m currently learning **Full Stack Web Development**
+- 🌱 I’m currently learning **Full Stack Web Development and Machine Learning**
 
-- 💬 Ask me about **Java, Web Development and MERN**
+- 💬 Ask me about **Java, Web Development, MERN Stack and Machine Learning**
 
 - 📫 How to reach me **poushalighosh25@gmail.com**
 
-- 📄 Know about my experiences [file:///C:/Users/Poushali%20Ghosh/Downloads/PoushaliGhosh__Resume%20(2).pdf](file:///C:/Users/Poushali%20Ghosh/Downloads/PoushaliGhosh__Resume%20(2).pdf)
+- 📄 Know about my experiences [https://drive.google.com/drive/folders/1On91SWlueThSbp__kFBfTjN2a1l7QW3p?usp=sharing](https://drive.google.com/drive/folders/1On91SWlueThSbp__kFBfTjN2a1l7QW3p?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
